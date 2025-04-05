@@ -1,5 +1,5 @@
 # Project Web
-# SurvivalDevs - team
+# SurvivalDevs - Team
 
 FreshPlay - браузерная мультиплеерная платформа для игр. Построена на Angular и Django с поддержкой WebSocket для взаимодействия в реальном времени.
 
