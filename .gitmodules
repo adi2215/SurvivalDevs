@@ -1,3 +1,3 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/mkhmtolzhas/WebDevProject.git
+[submodule "backend-web-dev-kbtu"]
+	path = backend-web-dev-kbtu
+	url = https://github.com/mkhmtolzhas/backend-web-dev-kbtu.git
