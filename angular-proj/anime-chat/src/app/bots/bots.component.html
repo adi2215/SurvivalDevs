@@ -1,0 +1,9 @@
+
+<h2>Выбери своего Аниме-Бота</h2>
+<div class="bot-list">
+  <div class="bot-card" *ngFor="let bot of bots" (click)="selectBot(bot)">
+    <img [src]="bot.avatar" alt="{{bot.name}}" />
+    <h3>{{bot.name}}</h3>
+    <p>{{bot.description}}</p>
+  </div>
+</div>

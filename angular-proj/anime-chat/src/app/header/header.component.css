@@ -1,0 +1,21 @@
+/* header.component.css */
+.header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #2d2d2d;
+    color: white;
+  }
+  .site-name {
+    font-size: 24px;
+  }
+  .sign-in-btn {
+    background-color: #ff9800;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+  }
+  

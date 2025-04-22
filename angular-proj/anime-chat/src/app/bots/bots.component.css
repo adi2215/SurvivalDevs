@@ -1,0 +1,4 @@
+
+.bot-list { display: flex; gap: 1rem; flex-wrap: wrap; }
+.bot-card { border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 200px; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+img { width: 100%; border-radius: 8px; }

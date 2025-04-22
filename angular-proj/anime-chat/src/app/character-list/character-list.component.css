@@ -1,0 +1,10 @@
+/* character-list.component.css */
+.character-list {
+    padding: 20px;
+  }
+  .characters-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  

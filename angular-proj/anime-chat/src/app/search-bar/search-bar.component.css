@@ -1,0 +1,13 @@
+/* search-bar.component.css */
+.search-bar {
+    padding: 10px 30px;
+    background-color: #f1f1f1;
+  }
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  

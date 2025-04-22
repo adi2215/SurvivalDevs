@@ -1,0 +1,19 @@
+/* intro.component.css */
+.intro-section {
+    text-align: center;
+    padding: 50px;
+    background-color: #e0e0e0;
+  }
+  .intro-buttons {
+    margin-top: 20px;
+  }
+  .btn {
+    background-color: #ff9800;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  

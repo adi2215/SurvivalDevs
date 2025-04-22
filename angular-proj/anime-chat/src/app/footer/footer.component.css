@@ -1,0 +1,26 @@
+/* footer.component.css */
+.footer-bar {
+    background-color: #2d2d2d;
+    color: white;
+    padding: 20px;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-section {
+    flex: 1;
+  }
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  .footer-section a {
+    color: white;
+    text-decoration: none;
+  }
+  .social-links a {
+    margin-right: 10px;
+    color: white;
+  }
+  
