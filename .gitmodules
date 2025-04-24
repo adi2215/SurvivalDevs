@@ -1,3 +1,6 @@
 [submodule "backend-web-dev-kbtu"]
 	path = backend-web-dev-kbtu
 	url = https://github.com/mkhmtolzhas/backend-web-dev-kbtu.git
+[submodule "front"]
+	path = front
+	url = https://github.com/suttegi/frontend-web-final
